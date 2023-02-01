@@ -34,16 +34,21 @@ h1:hover{
     font-weight: 300;
 }
 
-@media (max-width:565px){
+@media screen and (max-width:565px){
     button{
         margin: 1rem;
     }
     h1{
         font-size: 50px;
     }
+    body{
+        height: 100vh;
+        ba
+    }
     
     
 }
+
 
 button{
     border: none;
